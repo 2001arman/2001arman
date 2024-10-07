@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Flutter Project
 - 📫 How to reach me 2001armanmaulana@gmail.com
 - 📫 My personal web portofolio https://armanmaulana.com/
+- 📫 Linkedin [LinkedIn](https://www.linkedin.com/in/muhammad-arman-maulana-359076215/)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/2001arman">
