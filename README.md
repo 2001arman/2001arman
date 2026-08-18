@@ -82,14 +82,27 @@ Australia, Austria and Malaysia: 95%+ positive feedback, delivered around 20% ah
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Isar](https://img.shields.io/badge/Isar-1d1f21?style=flat-square)
 
-## &#x1f4c8; GitHub Stats
+## By the numbers
 
-<a href="https://github.com/2001arman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001arman&layout=compact&langs_count=8&hide=java,html&title_color=ff7a45&text_color=a1a1aa&icon_color=ff7a45&bg_color=0b0b0e&hide_border=true" />
-</a>
-<a href="https://github.com/2001arman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2001arman&show_icons=true&line_height=27&count_private=true&title_color=ff7a45&text_color=a1a1aa&icon_color=ff7a45&bg_color=0b0b0e&hide_border=true" alt="Arman's GitHub Stats" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Dart-51%25%20of%20my%20public%20repos-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart is 51% of my public repos" />
+  <img src="https://img.shields.io/badge/Shipped-14%2B%20apps-ff7a45?style=flat-square" alt="14+ apps shipped" />
+  <img src="https://img.shields.io/badge/Client%20feedback-95%25%2B-ff7a45?style=flat-square" alt="95%+ client feedback" />
+  <img src="https://img.shields.io/github/followers/2001arman?style=flat-square&logo=github&label=Followers&color=1d1f21" alt="GitHub followers" />
+</p>
+
+25 of my 49 language-tagged public repos are Dart, ahead of everything else by a wide margin.
+Most of the interesting work lives in private client repos, so the
+**[portfolio](https://armanmaulana.com/)** is the fuller picture.
+
+<!--
+  The github-readme-stats cards used to sit here. The public demo instance
+  (github-readme-stats.vercel.app) is permanently over GitHub's API rate limit
+  and returns 503, so the cards render as broken images. To bring them back,
+  deploy your own instance: fork anuraghazra/github-readme-stats, deploy it to
+  Vercel with a PAT in the PAT_1 env var, then point the URLs at your own
+  domain instead of the shared one.
+-->
 
 <br/>
 
