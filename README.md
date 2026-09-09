@@ -40,8 +40,8 @@ architecture, the build, the launch, and the support after it.
 | Project | What it is |
 | --- | --- |
 | [**Notery**](https://play.google.com/store/apps/details?id=com.notery.app) | Private shared notes, calendar and reminders for couples. Designed, built and launched solo. Live on Google Play |
-| **AMOR** | End-to-end encrypted messenger on the Matrix protocol, with voice and video over WebRTC |
-| **Dabtive Campaign** | Social campaign marketplace where an AI validates the submission proof instead of a reviewer |
+| **Secure Chat App** | End-to-end encrypted messenger on the Matrix protocol, with voice and video over WebRTC |
+| **Campaign App** | Social campaign marketplace where an AI validates the submission proof instead of a reviewer |
 | **AI-Care** | AI symptom self-checker paired with real-time clinician consultations. 1,000+ active users |
 | **Callink** | Team messaging with channels, threads and calls, on WebSocket over a DDD codebase |
 
